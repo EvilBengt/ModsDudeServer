@@ -1,0 +1,9 @@
+.htaccess
+.htpasswd
+
+mods/mod/*
+mods/uploading/*
+
+profiles/profile/*
+
+savegames/savegame/*
